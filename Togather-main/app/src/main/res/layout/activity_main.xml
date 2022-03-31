@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+
+    android:orientation="vertical">
+
+    <View
+        android:id="@+id/logo_ll"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:background="@drawable/app_title"
+        android:orientation="vertical" />
+
+    <LinearLayout
+        android:id="@+id/search_rl"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_below="@+id/logo_ll"
+        android:forceDarkAllowed="false"
+        android:gravity="center">
+
+        <EditText
+            android:id="@+id/search_et"
+            android:layout_width="300dp"
+            android:layout_height="match_parent"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/round_border"
+            android:hint="   검색어를 입력하세요"
+            android:textSize="12sp"></EditText>
+
+        <Button
+            android:id="@+id/search_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:backgroundTint="@color/lightYellow"
+            android:text="찾기"
+            android:textColor="@color/black"
+            android:textSize="12sp"></Button>
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/search_lv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/profile_btn"
+        android:layout_below="@id/search_rl"></ListView>
+
+    <Button
+        android:id="@+id/profile_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="프로필 설정"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:backgroundTint="@color/lightPurple"
+        android:textColor="@color/black"
+        android:textSize="12sp"
+        android:layout_marginBottom="30dp"></Button>
+
+</RelativeLayout>
