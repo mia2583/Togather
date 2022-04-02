@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "799899905081",
+    "firebase_url": "https://togather-b0193-default-rtdb.firebaseio.com",
+    "project_id": "togather-b0193",
+    "storage_bucket": "togather-b0193.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799899905081:android:c343bfdf1642bd4ef671e8",
+        "android_client_info": {
+          "package_name": "com.myseo.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799899905081-5kpqrduhru4edbfp06qn8md97usj0bv3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myseo.login",
+            "certificate_hash": "3a6c2b67bef341537507072818f4d08bb1c31cca"
+          }
+        },
+        {
+          "client_id": "799899905081-qc9etoifg247mesprmqmu3u5i0h6ioc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzC8ujm7XJidofZXRV4_UBrclDeF9FHTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799899905081-qc9etoifg247mesprmqmu3u5i0h6ioc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799899905081:android:d9ebbfd32ad8facff671e8",
+        "android_client_info": {
+          "package_name": "com.twoweeks.dogJalal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799899905081-geudrkk9he5t2hjmj695d8knv5uvgngs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.twoweeks.dogJalal",
+            "certificate_hash": "bb7966531bc59b5049ac7b6b0df2c0a3577de426"
+          }
+        },
+        {
+          "client_id": "799899905081-qc9etoifg247mesprmqmu3u5i0h6ioc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzC8ujm7XJidofZXRV4_UBrclDeF9FHTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799899905081-qc9etoifg247mesprmqmu3u5i0h6ioc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799899905081:android:9cb27587fa80df86f671e8",
+        "android_client_info": {
+          "package_name": "com.twoweeks.togather"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799899905081-c9cantalmps344epsgej3m9ibkpo61t4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.twoweeks.togather",
+            "certificate_hash": "3a6c2b67bef341537507072818f4d08bb1c31cca"
+          }
+        },
+        {
+          "client_id": "799899905081-hoqf0bl0spcc5dmh8rel2575apod9o84.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.twoweeks.togather",
+            "certificate_hash": "090bb710a4da730f22ea377c29d96aee0b004456"
+          }
+        },
+        {
+          "client_id": "799899905081-qc9etoifg247mesprmqmu3u5i0h6ioc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzC8ujm7XJidofZXRV4_UBrclDeF9FHTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799899905081-qc9etoifg247mesprmqmu3u5i0h6ioc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
